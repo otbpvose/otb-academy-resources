@@ -6,7 +6,7 @@ Homework url: http://l.tooky.co.uk/otb-academy-oct-2014-homework
 
 ### Bowling Kata PRs:
 
-- Damien Roche: https://github.otbeach.com/onthebeach/kata-bowling/pull/1/files
+- Damien Roche: https://github.com/damien-roche/kata-bowling/pull/1
 - Phillip Vose: https://github.com/phillipvose/otb-academy-kata-bowling/pull/1
 - Craig Bradley: https://github.com/craigbrad/BowlingKata/pull/1
 
