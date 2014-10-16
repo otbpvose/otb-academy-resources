@@ -17,13 +17,14 @@ Homework url: http://l.tooky.co.uk/otb-academy-oct-2014-homework
 
 ### Ruby Method Lookup Articles:
 
-- Damien: https://gist.github.com/damien-roche/351bf4e7991449714533
+- Damien Roche: https://gist.github.com/damien-roche/351bf4e7991449714533
 
 ## Week 1 Homework
 
 ### Presentations
 
 - Phillip Vose: http://goo.gl/OQ0hyy
+- Damien Roche: https://speakerdeck.com/damienroche/ruby-enumerable
 
 ## Other Useful Resources
 
