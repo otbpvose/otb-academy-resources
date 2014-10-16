@@ -1,6 +1,8 @@
-otb-academy-resources
+OTB Academy 2014 - Resources and Links
 =====================
 Homework url: http://l.tooky.co.uk/otb-academy-oct-2014-homework
+
+## Week 2 Homework
 
 ### Bowling Kata PRs:
 
@@ -15,3 +17,8 @@ Homework url: http://l.tooky.co.uk/otb-academy-oct-2014-homework
 ### Ruby Method Lookup Articles:
 
 - Damien: https://gist.github.com/damien-roche/351bf4e7991449714533
+
+## Other Useful Resources
+
+### Useful Links
+- tbc
