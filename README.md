@@ -13,6 +13,7 @@ Homework url: http://l.tooky.co.uk/otb-academy-oct-2014-homework
 ### Harry Potter Kata PRs:
 
 - Mark Maxwell: https://github.com/mark-maxwell/harry_potter_book_sale/pull/1
+- Asta B: https://github.com/astux7/kata-potter/pull/1
 
 ### Ruby Method Lookup Articles:
 
