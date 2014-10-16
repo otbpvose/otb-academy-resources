@@ -18,6 +18,12 @@ Homework url: http://l.tooky.co.uk/otb-academy-oct-2014-homework
 
 - Damien: https://gist.github.com/damien-roche/351bf4e7991449714533
 
+## Week 1 Homework
+
+### Presentations
+
+- Phillip Vose: http://goo.gl/OQ0hyy
+
 ## Other Useful Resources
 
 ### Useful Links
