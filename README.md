@@ -27,6 +27,9 @@ Homework url: http://l.tooky.co.uk/otb-academy-oct-2014-homework
 - Phillip Vose: http://goo.gl/OQ0hyy
 - Damien Roche: https://speakerdeck.com/damienroche/ruby-enumerable
 
+#### Blog Links
+- Craig Bradley: http://craigbrad.blogspot.co.uk
+
 ## Other Useful Resources
 
 #### Useful Links
