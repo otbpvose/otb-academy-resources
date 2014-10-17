@@ -18,6 +18,7 @@ Homework url: http://l.tooky.co.uk/otb-academy-oct-2014-homework
 #### Ruby Method Lookup Articles:
 
 - Damien Roche: https://gist.github.com/damien-roche/351bf4e7991449714533
+- Mark Maxwell: https://gist.github.com/mark-maxwell/d115b3f88b012716326b
 
 ## Week 1 Homework
 
