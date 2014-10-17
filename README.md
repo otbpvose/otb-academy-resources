@@ -20,6 +20,9 @@ Homework url: http://l.tooky.co.uk/otb-academy-oct-2014-homework
 - Damien Roche: https://gist.github.com/damien-roche/351bf4e7991449714533
 - Mark Maxwell: https://gist.github.com/mark-maxwell/d115b3f88b012716326b
 
+#### Blog Links
+- Craig Bradley: http://craigbrad.blogspot.co.uk
+
 ## Week 1 Homework
 
 #### Presentations
@@ -27,8 +30,7 @@ Homework url: http://l.tooky.co.uk/otb-academy-oct-2014-homework
 - Phillip Vose: http://goo.gl/OQ0hyy
 - Damien Roche: https://speakerdeck.com/damienroche/ruby-enumerable
 
-#### Blog Links
-- Craig Bradley: http://craigbrad.blogspot.co.uk
+
 
 ## Other Useful Resources
 
