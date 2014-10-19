@@ -21,6 +21,7 @@ Homework url: http://l.tooky.co.uk/otb-academy-oct-2014-homework
 - Mark Maxwell: https://gist.github.com/mark-maxwell/d115b3f88b012716326b
 - Craig Bradley: http://craigbrad.blogspot.co.uk
 - Asta Bevainyte: https://gist.github.com/astux7/4387e6fb3c90250e36c0
+- Phillip Vose: https://gist.github.com/c2d298530a03945837af
 
 ## Week 1 Homework
 
