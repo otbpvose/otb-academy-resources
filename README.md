@@ -14,6 +14,7 @@ Homework url: http://l.tooky.co.uk/otb-academy-oct-2014-homework
 
 - Mark Maxwell: https://github.com/mark-maxwell/harry_potter_book_sale/pull/1
 - Asta B: https://github.com/astux7/kata-potter/pull/1
+- Joseph Guest: https://github.com/JoeGuest/academy-katas/pull/1
 
 #### Ruby Method Lookup Articles:
 
