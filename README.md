@@ -2,6 +2,12 @@ OTB Academy 2014 - Resources and Links
 =====================
 Homework url: http://l.tooky.co.uk/otb-academy-oct-2014-homework
 
+## Week 3 Homework
+
+#### Repos for Hangman Exercise:
+
+- Mark Maxwell & Phillip Vose: https://github.com/mark-maxwell/hangman
+
 ## Week 2 Homework
 
 #### Bowling Kata PRs:
