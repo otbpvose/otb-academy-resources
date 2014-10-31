@@ -5,8 +5,18 @@ Homework url: http://l.tooky.co.uk/otb-academy-oct-2014-homework
 ## Week 3 Homework
 
 #### Repos for Hangman Exercise:
+For the first few days we paired to create a basic hangman game, before adding various features, different for each team.
 
 - Mark Maxwell & Phillip Vose: https://github.com/mark-maxwell/hangman
+- Craig Bradley & Marc Winstanley: https://github.com/craigbrad/hangman
+- Damian Roche & Joe Guest: https://github.com/JoeGuest/hangman_game
+- Asta Bevainyte & Purnima: https://github.com/astux7/sinatra-hangman
+
+#### Repos for Hangman Slack Exercise:
+Then on Thursday we split into two teams to impliment slack integration on a Heroku instance.
+
+- Craig Bradley, Mark Maxwell, Marc Winstanley & Phillip Vose: https://github.com/craigbrad/hangman
+- Asta Bevainyte, Damian Roche, Joe Guest & Purnima: https://github.com/JoeGuest/hangman_game
 
 ## Week 2 Homework
 
